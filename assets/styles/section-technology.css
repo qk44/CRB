@@ -42,7 +42,7 @@
     margin-left: 10px;
 }
 .section-technology .container .block .block-info:nth-child(1) .picture {
-    background: url("./assets/img_svg/MRT.png");
+    background: url("..//img_svg/MRT.png");
     width: 300px;
     height: 225px;
     background-size: contain;
@@ -52,7 +52,7 @@
 
 }
 .section-technology .container .block .block-info:nth-child(2) .picture {
-    background: url("./assets/img_svg/KT.png");
+    background: url(".//img_svg/KT.png");
     width: 300px;
     height: 225px;
     background-size: contain;
@@ -61,7 +61,7 @@
 }
 
 .section-technology .container .block .block-info:nth-child(3) .picture {
-    background: url("./assets/img_svg/RENTGEN.png");
+    background: url("../img_svg/RENTGEN.png");
     width: 300px;
     height: 225px;
     background-size: contain;
@@ -70,7 +70,7 @@
 
 }
 .section-technology .container .block .block-info:nth-child(4) .picture {
-    background: url("./assets/img_svg/YZI.png");
+    background: url("../img_svg/YZI.png");
     width: 300px;
     height: 225px;
     background-size: contain;
